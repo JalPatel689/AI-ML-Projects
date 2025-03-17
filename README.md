@@ -23,4 +23,4 @@ In this project, Based on the weather forecasting analysis, multiple **machine l
 
 - **Neural Networks** (possibly using deep learning frameworks) were implemented for more complex pattern recognition in weather forecasting. These models excel at capturing intricate dependencies between variables but require large datasets and computational power.  
 
-Each model's performance was evaluated using metrics such as **Root Mean Squared Error (RMSE) and R² scores**, ensuring accurate and reliable predictions. By leveraging multiple models, the analysis balances interpretability and accuracy, enabling better decision-making for both technical and non-technical stakeholders.
+Each model's performance was evaluated using metrics such as **Root Mean Squared Error (RMSE) and R² scores**, ensuring accurate and reliable predictions.
