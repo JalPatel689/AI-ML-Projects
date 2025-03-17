@@ -14,3 +14,13 @@ The document contains weather forecasting data analysis, including:
 - **Scatter plots** and correlation matrices indicate strong interdependencies between temperature, humidity, and pressure. Additionally, predictive model evaluation graphs, such as residual plots and error distributions, demonstrate how well machine learning models perform in forecasting weather conditions.
 
 #### These visualizations provide actionable insights, aiding businesses and policymakers in making informed decisions.
+
+In this project, Based on the weather forecasting analysis, multiple **machine learning models** have been employed to predict key weather parameters such as temperature, humidity, and visibility. The models used in this project likely include **Linear Regression, Decision Trees, and Neural Networks**, each contributing to different aspects of the forecast.  
+
+- **Linear Regression** was applied to model continuous variables like temperature and humidity. Given its simplicity, it helps in understanding linear relationships between features, such as how humidity changes with temperature. However, it may not perform well when dealing with non-linear patterns in weather data.  
+
+- **Decision Trees** were utilized for their ability to handle non-linearity and interactions between multiple weather features. This model effectively segments the dataset based on feature importance, making it suitable for predicting weather conditions like fog or storms based on wind speed and humidity.  
+
+- **Neural Networks** (possibly using deep learning frameworks) were implemented for more complex pattern recognition in weather forecasting. These models excel at capturing intricate dependencies between variables but require large datasets and computational power.  
+
+Each model's performance was evaluated using metrics such as **Root Mean Squared Error (RMSE) and R² scores**, ensuring accurate and reliable predictions. By leveraging multiple models, the analysis balances interpretability and accuracy, enabling better decision-making for both technical and non-technical stakeholders.
